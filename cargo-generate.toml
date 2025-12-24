@@ -1,0 +1,3 @@
+[template]
+# 跳过替换的文件列表（支持通配符，如 "*.toml" 跳过所有toml）
+exclude = ["cliff.toml"]
